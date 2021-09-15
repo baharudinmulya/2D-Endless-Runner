@@ -1,2 +1,5 @@
 # 2D-Endless-Runner
- Percobaan Script dari AGATE Academy
+
+Implementasi kode program dari agate academy
+
+tidak ada penambahan fitur apapun
