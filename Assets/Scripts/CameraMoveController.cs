@@ -4,24 +4,14 @@ using UnityEngine;
 
 public class CameraMoveController : MonoBehaviour
 {
-
     [Header("Position")]
-public Transform player;
-public float horizontalOffset;
+    public Transform player;
+    public float horizontalOffset;
 
-private void Update()
-{
-    Vector3 newPosition = transform.position;
-    newPosition.x = player.position.x + horizontalOffset;
-    transform.position = newPosition;
-    Debug.Log("Hello: " + gameObject.name);
-}
-    // Start is called before the first frame update
-    void Start()
+    private void Update()
     {
-        
+        Vector3 newPosition = transform.position;
+        newPosition.x = player.position.x + horizontalOffset;
+        transform.position = newPosition;
     }
-
-    // Update is called once per frame
-    
 }
