@@ -9,6 +9,7 @@ public class ScoreController : MonoBehaviour
     public CharacterSoundController sound;
 
     private int currentScore = 0;
+    private int scoreCount;
     private int lastScoreHighlight = 0;
 
     
@@ -42,5 +43,10 @@ public class ScoreController : MonoBehaviour
         {
             ScoreData.highScore = currentScore;
         }
+    }
+
+    public void AddScore(int pointsToAdd)
+    {
+        currentScore +=pointsToAdd;
     }
 }

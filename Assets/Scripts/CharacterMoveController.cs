@@ -49,6 +49,7 @@ public class CharacterMoveController : MonoBehaviour
         // read input
         if (Input.GetMouseButtonDown(0))
         {
+            // Debug.Log("loncat");
             if (isOnGround)
             {
                 isJumping = true;

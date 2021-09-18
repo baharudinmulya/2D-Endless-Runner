@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 550119999021919253, guid: b95c98a13b3475a49ae5542a71bda88a,
         type: 3}
       propertyPath: m_Name
-      value: Ground Template 1
+      value: Ground Template 3
       objectReference: {fileID: 0}
     - target: {fileID: 6788791305845246958, guid: b95c98a13b3475a49ae5542a71bda88a,
         type: 3}
@@ -66,6 +66,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448079946583711672, guid: b95c98a13b3475a49ae5542a71bda88a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448079946583711672, guid: b95c98a13b3475a49ae5542a71bda88a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.67
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b95c98a13b3475a49ae5542a71bda88a, type: 3}
