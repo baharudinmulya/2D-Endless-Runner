@@ -2,4 +2,5 @@
 
 Implementasi kode program dari agate academy
 
-tidak ada penambahan fitur apapun
+sedikit penambahan fitur:
+menu awal saja. belum bisa pause
