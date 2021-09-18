@@ -8,5 +8,5 @@
 Implementasi kode program dari agate academy
 
 sedikit penambahan fitur:
-menu awal saja. belum bisa pause
+menu awal+coin saja. belum bisa pause
 
