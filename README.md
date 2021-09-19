@@ -1,7 +1,7 @@
 # 2D-Endless-Runner
 
 # PENTING!!
-## Untuk project masuk ke asset klik scene->mainmenu, dan bisa langsung play
+## Untuk project scene->mainmenu(otomatis oleh build settings), dan bisa langsung play
 ## STANDALONE tinggal play.
 
 
